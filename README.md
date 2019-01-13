@@ -1,5 +1,5 @@
 # Whistle-of-Freedom
-The Whistle of Freedom enables you to access the most commonly used shortcuts using your whistle(or any sound at a particular pitch, for that matter). 
+The Whistle of Freedom enables you to access the most commonly used shortcuts using your whistle(or any vocal or instrumental for that matter). You could also configure this as a controller for that small game you wanted to play(Well, T-Rex Runner)
 
 Usage:
 Launch Config.py, and enter the shortcut you would like executed at the frequency specified, and save it.
