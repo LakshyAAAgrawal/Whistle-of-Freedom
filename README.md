@@ -8,4 +8,12 @@ Run Controller.py and let the magic begin.
 Prerequisites:
 Whistle of Freedom depends on Tkinter, PyAudio, NumPy, Wave, OS, modules in python, which can be easily installed using pip.
 
+The project was created as a submission to a Byld Hackathon, by a team consisting of:
 
+Siddharth V
+
+Ruhma Mehek Khan
+
+Bhavya Chopra
+
+Lakshya A Agrawal
